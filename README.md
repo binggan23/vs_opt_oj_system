@@ -1,11 +1,11 @@
-# bg-opt-vs：让Visual Studio更贴近标准C++
+# vs_opt_oj_system：让Visual Studio更贴近标准C++
 
 <div align="center">
-  <a href="https://github.com/binggan23/bg-opt-vs/blob/main/LICENSE">
+  <a href="https://github.com/binggan23/vs_opt_oj_system/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License: MIT">
   </a>
-  <a href="https://github.com/binggan23/bg-opt-vs">
-    <img src="https://img.shields.io/github/stars/binggan23/bg-opt-vs?style=social" alt="Stars">
+  <a href="https://github.com/binggan23/vs_opt_oj_system">
+    <img src="https://img.shields.io/github/stars/binggan23/vs_opt_oj_system?style=social" alt="Stars">
   </a>
   <img src="https://img.shields.io/badge/C-11%2B-orange.svg" alt="C Standard: C11+">
   <img src="https://img.shields.io/badge/C%2B%2B-11%2B-blue.svg" alt="C++ Standard: C++11+">
@@ -31,7 +31,7 @@
 
 1. **下载**:克隆仓库或直接下载`include/bg_opt_vs.h`。
    ```bash
-   git clone https://github.com/binggan23/bg-opt-vs.git
+   git clone https://github.com/binggan23/vs_opt_oj_system.git
 2. **集成到项目**: 将bg_opt_vs.h放入项目的include目录（或任意目录）。  
 在代码中直接包含:  
     ```c++
